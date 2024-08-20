@@ -1,15 +1,15 @@
-    <h1>Mastering Exports and Requires in Node.js</h1>
+    <strong>Description:</strong>
+    <ul>
+        <li>I focused on learning how to manage code across multiple files in Node.js by practicing the use of exports and requires. This included understanding how to organize code into separate modules and link them together effectively. The exercises involved working with a GitHub repository to practice exporting and requiring modules.</li>
+    </ul>
 
-    <p><strong>Description:</strong></p>
-    <p>I focused on learning how to manage code across multiple files in Node.js by practicing the use of exports and requires. This included understanding how to organize code into separate modules and link them together effectively. The exercises involved working with a GitHub repository to practice exporting and requiring modules.</p>
-
-    <p><strong>Technologies Used:</strong></p>
+    <strong>Technologies Used:</strong>
     <ul>
         <li><strong>Node.js:</strong> For managing modules and practicing file imports and exports.</li>
         <li><strong>Git:</strong> For version control and handling repository operations.</li>
     </ul>
 
-    <p><strong>Features Implemented:</strong></p>
+    <strong>Features Implemented:</strong>
     <ul>
         <li><strong>Module Concept:</strong>
             <ul>
